@@ -5,10 +5,6 @@ const readline = require('readline').createInterface({
   });
 const fs = require('fs');
 let jokes = [];
-jokeToWrite =[];
-
-  
-
 
 function extractValue(arr) {
     
